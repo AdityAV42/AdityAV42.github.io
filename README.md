@@ -4,6 +4,9 @@ Greater Noida, India
 [adityavinayak2022@gmail.com](mailto:adityavinayak2022@gmail.com) | tel:+91 9006583633  
 [Portfolio](https://adityav42.github.io/) | [LinkedIn](https://www.linkedin.com/in/adityavinayak/) | [LeetCode](https://leetcode.com/u/adityav2022/) | [GitHub](https://github.com/AdityAV42)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="adityavinayak" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityavinayak?trk=profile-badge">ADITYA VINAYAK</a></div>
+
 ---
 
 ## Education
