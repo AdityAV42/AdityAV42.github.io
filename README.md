@@ -1,4 +1,5 @@
-# Aditya Vinayak
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm  Aditya Vinayak</h1>
+<h3 align="center">Date with programming , from India</h3>
 
 Greater Noida, India  
 [adityavinayak2022@gmail.com](mailto:adityavinayak2022@gmail.com) | tel:+91 9006583633  
