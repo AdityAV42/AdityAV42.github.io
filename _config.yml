@@ -1,4 +1,17 @@
 theme: jekyll-theme-minimal
+logo: "/ADITYA_VINAYAK.jpeg"
+
 
 title: "Aditya Vinayak"
+description: >
+  <br>
+  3rd Year Undergraduate | GLBITM , DR. APJ ABDUL KALAM UNIVERSITY
+  <br>
+  <a href="https://www.linkedin.com/in/adityavinayak/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:adityavinayak2022@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 description: "Hello World, I'm a Developer."
