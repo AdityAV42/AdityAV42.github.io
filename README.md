@@ -82,7 +82,7 @@ _Virtual Internship_
 [Code](https://github.com/AdityAV42/Justice_Portal_With_AI_Chatbot)  
 _Sep 2024 - Dec 2024_  
 Collaborated in a team of 3 to develop an AI-integrated website for the District Court.  
-Technologies Used: HTML, CSS, JavaScript, Node.js, Gemini API, Gemini Cloud
+Technologies Used: HTML, CSS, JavaScript, Node.js, Express.js, Gemini API, Gemini Cloud
 
 ---
 
