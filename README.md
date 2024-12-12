@@ -10,7 +10,7 @@ Greater Noida, India
 
 **GL Bajaj Institute of Technology and Management**  
 _Bachelor of Technology – Computer Science and Engineering (specialization in AI-ML)_  
-**CGPA:** 8.74  
+**CGPA:** 8.56  
 **2022 - 2026**  
 
 _Courses: Programming for Problem Solving, Data Structure, OS, OOPS with Java, DBMS, Object Oriented System Design, Cloud Computing, AI, DAA_
@@ -77,6 +77,14 @@ _Virtual Internship_
 ---
 
 ## Projects
+
+**Justice Portal with AI Chatbot**  
+[Code](https://github.com/AdityAV42/Justice_Portal_With_AI_Chatbot)  
+_Sep 2024 - Dec 2024_  
+Collaborated in a team of 3 to develop an AI-integrated website for the District Court.  
+Technologies Used: HTML, CSS, JavaScript, Node.js, Gemini API, Gemini Cloud
+
+---
 
 **Portfolio Website**  
 [Code](https://github.com/AdityAV42/AdityAV42.github.io/) | [Live](https://adityav42.github.io/)  
