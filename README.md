@@ -149,19 +149,19 @@ Developed a feature-rich web application that replicates core functionalities of
 
 ## Certifications
 
-- [AWS Academy Graduate - Cloud Foundations](https://www.credly.com/badges/d781aff5-daaa-4fcd-bf08-1937fcfc33b6/linked_in_profile)  \hfill Dec 2024
+- [AWS Academy Graduate - Cloud Foundations](https://www.credly.com/badges/d781aff5-daaa-4fcd-bf08-1937fcfc33b6/linked_in_profile)  Dec 2024
 
-- [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/hl21YTR-RLi1J6-36h4NcA)  \hfill Oct 2024
+- [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/hl21YTR-RLi1J6-36h4NcA)  Oct 2024
 
-- [Dev-ON HACKATHON](https://verification.givemycertificate.com/v/c26f2741-9f92-4638-b0ec-2e80b560769c)  \hfill Dec 2023
+- [Dev-ON HACKATHON](https://verification.givemycertificate.com/v/c26f2741-9f92-4638-b0ec-2e80b560769c)   Dec 2023
 
-- [Object-Oriented Hierarchies in Java](https://www.coursera.org/account/accomplishments/verify/ASHUX8AMQCZF)  \hfill Sep 2023
+- [Object-Oriented Hierarchies in Java](https://www.coursera.org/account/accomplishments/verify/ASHUX8AMQCZF)   Sep 2023
 
-- [Introduction to Java and Object-Oriented Programming](https://www.coursera.org/account/accomplishments/verify/2XLGMRKXXT9U)  \hfill Jun 2023
+- [Introduction to Java and Object-Oriented Programming](https://www.coursera.org/account/accomplishments/verify/2XLGMRKXXT9U)   Jun 2023
 
-- [Introduction to Object-Oriented Programming with Java](https://www.coursera.org/account/accomplishments/verify/RMHVB3G6XPQE)  \hfill Jun 2023
+- [Introduction to Object-Oriented Programming with Java](https://www.coursera.org/account/accomplishments/verify/RMHVB3G6XPQE)  Jun 2023
 
-- [Introduction to Java](https://www.coursera.org/account/accomplishments/verify/B4LAFNH2EZJF)  \hfill May 2023
+- [Introduction to Java](https://www.coursera.org/account/accomplishments/verify/B4LAFNH2EZJF)  May 2023
 
 
 ---
