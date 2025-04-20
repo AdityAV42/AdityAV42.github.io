@@ -8,24 +8,24 @@ Greater Noida, India
 
 ## Education
 
-**GL Bajaj Institute of Technology and Management**  
-_Bachelor of Technology – Computer Science and Engineering (specialization in AI-ML)_  
-**CGPA:** 8.56  
+**Bachelor of Technology – Computer Science and Engineering (specialization in AI-ML)**  
+_GL Bajaj Institute of Technology and Management_  
+**CGPA:** 8.41  
 **2022 - 2026**  
 
-_Courses: Programming for Problem Solving, Data Structure, OS, OOPS with Java, DBMS, Object Oriented System Design, Cloud Computing, AI, DAA_
+_Courses: Programming for Problem Solving, Data Structure, OS, OOPS with Java, DBMS, Object Oriented System Design, Cloud Computing, AI, DAA, Computer Networks, ML, SPM, Software Engineering_
 
 ---
 
-**Radiant International School**  
-_Intermediate - PCM_  
+**Senior Secondary Education - PCM**  
+_Radiant International School_  
 **Percentage:** 85.2  
 **2022**  
 
 ---
 
-**Radiant International School**  
-_High School_  
+**Secondary Education**  
+_Radiant International School_  
 **Percentage:** 95.4  
 **2020**
 
@@ -33,35 +33,41 @@ _High School_
 
 ## Skills
 
-- **Programming:** C, C++, Python, Java , SQL, MongoDB, HTML, CSS, Markdown (.md), LaTeX (Overleaf)
-- **Developer Tools:** Android Studio, Visual Studio Code, Git, GitHub, Figma, Postman, Microsoft Excel, PowerPoint, Word, Tableau, Docker
+- **Programming:** C, C++, Python, Java , SQL, MongoDB, HTML, CSS, JS, Node.js, Express.js, Markdown (.md), LaTeX (Overleaf)
+- **Developer Tools:** Android Studio, Visual Studio Code, Git, GitHub, Figma, Postman, Microsoft Excel, PowerPoint, Word, Tableau, Docker, Amazon AWS EC2
 - **Soft Skills:** Leadership, Teamwork, Communication, Problem Solving, Mentoring, Management, Discipline
 
 
 ## ⚙️ *Tech Stack I am Familiar With*:
 
 <p align="center">
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin:2px;"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
   <img alt="Java" src="https://img.shields.io/badge/java%20-%23143554.svg?&style=for-the-badge&logo=java&logoColor=white" style="margin:2px;"/>
-  <img alt="SQL" src="https://img.shields.io/badge/sql%20-%234F5B93.svg?&style=for-the-badge&logo=sql&logoColor=white" style="margin:2px;"/>
+  <img alt="SQL" src="https://img.shields.io/badge/sql%20-%234F5B93.svg?&style=for-the-badge&logo=postgresql&logoColor=white" style="margin:2px;"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
   <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="margin:2px;"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" style="margin:2px;"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin:2px;"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" style="margin:2px;"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" style="margin:2px;"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" style="margin:2px;"/>
   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio%20-%233DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" style="margin:2px;"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin:2px;"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="margin:2px;"/>
   <img alt="Postman" src="https://img.shields.io/badge/postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" style="margin:2px;"/>
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/microsoft%20excel%20-%231D6F42.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white" style="margin:2px;"/>
   <img alt="PowerPoint" src="https://img.shields.io/badge/microsoft%20powerpoint%20-%23D83B01.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" style="margin:2px;"/>
-  <img alt="Word" src="https://img.shields.io/badge/microsoft%20word%20-%23D83B02.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white" style="margin:2px;"/>
+  <img alt="Word" src="https://img.shields.io/badge/microsoft%20word%20-%230073B6.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white" style="margin:2px;"/>
   <img alt="Tableau" src="https://img.shields.io/badge/tableau%20-%232C3E50.svg?&style=for-the-badge&logo=tableau&logoColor=white" style="margin:2px;"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" style="margin:2px;"/>
+  <img alt="AWS EC2" src="https://img.shields.io/badge/aws%20ec2%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin:2px;"/>
 </p>
+
 
 ---
 
@@ -119,6 +125,25 @@ _Virtual Internship_
 
 
 ---
+
+### **Image to B&W Website**  
+[Code](https://github.com/AdityAV42/Black-White) | [Live](http://16.171.25.108:3000/)  
+_Apr 2025_  
+Upload your Image to AWS EC2 Server and Convert the image to Black & White.  
+**Technologies Used:** HTML, CSS, JS, Git, GitHub, AWS EC2
+
+### **Countdown Timer Website**  
+[Code](https://github.com/AdityAV42/Countdown_Timer) | [Live](https://adityav42.github.io/Countdown_Timer/)  
+_Mar 2025_  
+A Javascript frontend project to create a countdown timer. Functionalities like : option for users to reset the timer, choose the start and end date, sound  when the timer expires. 
+**Technologies Used:** HTML, CSS, JS, Git, GitHub Pages
+
+### **Leetcode Stats Extractor**  
+[Code](https://github.com/AdityAV42/Leetcode_Stats_Extractor) | [Live](https://adityav42.github.io/Leetcode_Stats_Extractor/)  
+_Mar 2025_  
+A JS web tool that extracts and visualizes your LeetCode statistics in a clean dashboard. 
+**Technologies Used:** HTML, CSS, JS, Git, GitHub Pages
+
 
 ### **StudyHelp Website**  
 [Code](https://github.com/AdityAV42/StudyHelp_Website) | [Live](https://adityav42.github.io/StudyHelp_Website/)  
@@ -178,6 +203,6 @@ Developed a feature-rich web application that replicates core functionalities of
 
 ---
 
-_Last updated in January 2025_
+_Last updated in April 2025_
 
 
