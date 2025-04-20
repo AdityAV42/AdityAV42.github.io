@@ -127,7 +127,7 @@ _Virtual Internship_
 ---
 
 ### **Image to B&W Website**  
-[Code](https://github.com/AdityAV42/Black-White) | [Live](http://16.171.25.108:3000/)  
+[Code](https://github.com/AdityAV42/Black-White) | [Live](http://51.21.242.236:3000/)  
 _Apr 2025_  
 Upload your Image to AWS EC2 Server and Convert the image to Black & White.  
 **Technologies Used:** HTML, CSS, JS, Git, GitHub, AWS EC2
