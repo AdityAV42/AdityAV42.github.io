@@ -126,12 +126,6 @@ _Virtual Internship_
 
 ---
 
-### **Image to B&W Website**  
-[Code](https://github.com/AdityAV42/Black-White) | [Live](http://edit-img.duckdns.org:3000/)  
-_Apr 2025_  
-Upload your Image to AWS EC2 Server and Convert the image to Black & White.  
-**Technologies Used:** HTML, CSS, JS, Git, GitHub, AWS EC2
-
 ### **Countdown Timer Website**  
 [Code](https://github.com/AdityAV42/Countdown_Timer) | [Live](https://adityav42.github.io/Countdown_Timer/)  
 _Mar 2025_  
