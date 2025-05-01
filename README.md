@@ -28,41 +28,41 @@ Greater Noida, India
 
 ---
 
-## 💻 Technical Skills
+## 💻 Skills
 
-### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+**Programming:** C, C++, Python, Java, SQL, MongoDB, HTML, CSS, JavaScript, Node.js, Express.js, Markdown (.md), LaTeX (Overleaf)  
+**Developer Tools:** Visual Studio Code, Git, GitHub, Postman, Microsoft Excel, PowerPoint, Word, Tableau, Docker, Ollama, AWS EC2, Terraform, Linux (WSL)  
+**Soft Skills:** Leadership, Teamwork, Communication, Problem Solving, Discipline
 
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## ⚙️ Tech Stack I'm Familiar With
 
-### Office & Productivity
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-### Soft Skills
-Leadership · Teamwork · Communication · Problem Solving · Mentoring · Management · Discipline
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin:2px;"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
+  <img alt="Java" src="https://img.shields.io/badge/java%20-%23143554.svg?&style=for-the-badge&logo=java&logoColor=white" style="margin:2px;"/>
+  <img alt="SQL" src="https://img.shields.io/badge/sql%20-%234F5B93.svg?&style=for-the-badge&logo=postgresql&logoColor=white" style="margin:2px;"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
+  <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" style="margin:2px;"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" style="margin:2px;"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin:2px;"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" style="margin:2px;"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown%20-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" style="margin:2px;"/>
+  <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" style="margin:2px;"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin:2px;"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
+  <img alt="Postman" src="https://img.shields.io/badge/postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" style="margin:2px;"/>
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/microsoft%20excel%20-%231D6F42.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white" style="margin:2px;"/>
+  <img alt="PowerPoint" src="https://img.shields.io/badge/microsoft%20powerpoint%20-%23D83B01.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" style="margin:2px;"/>
+  <img alt="Word" src="https://img.shields.io/badge/microsoft%20word%20-%230073B6.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white" style="margin:2px;"/>
+  <img alt="Tableau" src="https://img.shields.io/badge/tableau%20-%232C3E50.svg?&style=for-the-badge&logo=tableau&logoColor=white" style="margin:2px;"/>
+  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" style="margin:2px;"/>
+  <img alt="AWS EC2" src="https://img.shields.io/badge/aws%20ec2%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin:2px;"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" style="margin:2px;"/>
+  <img alt="Linux" src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" style="margin:2px;"/>
+</p>
 
 ---
 
